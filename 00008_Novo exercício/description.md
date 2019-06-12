@@ -61,30 +61,30 @@ Dado isto, se tivéssemos na tabela **banda_artista** o seguinte conteúdo:
   data-name='banda_artista'
   data-columns='[{"name": "id", "pk": true}, "id_banda", "id_artista"]'
   data-rows='[
-    [1, 3, 4]
+    [1, 3, 1]
   ]'>
 </div>
 
-O que estamos dizendo é que na banda número 3 (The Beatles) o artista número 4 (David Lebon) participa
+O que estamos dizendo é que na banda número 3 (The Beatles) o artista número 1 (Caetano Veloso) participa
 
 Dado isto, vamos pedir para você inserir na tabela **band_artist** as seguintes entradas (na seguinte ordem):
 
-> ``
-> Na banda Sui Generis (número 3), peça Charly Garcia (artista número 2)
-> ``
+> ```
+> Na banda Iron Maiden (número 1), peça Caetano Veloso (artista número 1)
+> ```
 
-> ``
-> Na banda Seru Giran (número 4), peça Charly Garcia (artista número 2)
-> ``
+> ```
+> Na banda Iron Maiden (número 1), peça Carlos Gonzaga (artista número 2)
+> ```
 
-> ``
-> Na banda Seru Giran (número 4), peça Pedro Aznar (artista número 3)
-> ``
+> ```
+> Na banda Iron Maiden (número 1), peça Felipe Araújo (artista número 3)
+> ```
 
-> ``
-> Na banda Almendra (número 1), peça Luis Alberto Spinetta (artista número 1)
-> ``
+> ```
+> Na banda The Strokes (número 2), peça Carlos Gonzaga (artista número 1)
+> ```
 
-> ``
-> Na banda Pescado Rabioso (número 2), peça Luis Alberto Spinetta (artista número 1)
-> ``
+> ```
+> Na banda The Beatles (número 2), peça Jair Rodrigues (artista número 4)
+> ```
