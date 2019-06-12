@@ -3,7 +3,7 @@ Agora que vimos como adicionar conteúdo, é a sua vez. :wink:
 > Insira os seguintes dados na tabela banda:
 >
 > ```
-> Nome: Josias
+> Nome: Arctic Monkeys
 > Prêmios: 28
 
 E o ID? Sendo **chave primária** e autoincremental, não é necessário chamá-lo na consulta. As opções para isso são duas:
