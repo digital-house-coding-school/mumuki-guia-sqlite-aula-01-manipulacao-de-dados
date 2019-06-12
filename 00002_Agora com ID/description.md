@@ -2,19 +2,19 @@ Mais uma vez vamos criar a tabela **bandas** usando **CREATE TABLE** mas com alg
 
 A tabela deve ficar assim:
 
-<div class = 'mu-erd'
-  data-entities = '{
+<div class='mu-erd'
+  data-entities='{
     "bandas": {
-      "id": {
-        "tipo": "INTEGER",
+      "id" : {
+        "type": "INTEGER",
         "pk": true
-      }
+      },
       "nome": {
-        "tipo": "TEXTO"
+        "type": "TEXT"
       }
     }
-  } '>
-</ div>
+  }'>
+</div>
 
 Agora temos a coluna **id**, do tipo INTEGER e que é PRIMARY KEY. Além disso a coluna **nome** não pode ser nula.
 

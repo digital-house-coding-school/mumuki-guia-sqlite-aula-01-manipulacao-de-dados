@@ -1,0 +1,8 @@
+type: final_dataset
+final: SELECT * FROM bandas;
+expected: |
+  id|nome|premios
+  1|Thomaz|28
+  2|Victor|
+  3|Vinicius|42
+  4|Hendy|58
