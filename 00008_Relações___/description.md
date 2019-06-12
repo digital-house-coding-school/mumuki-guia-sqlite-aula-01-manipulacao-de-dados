@@ -70,21 +70,21 @@ O que estamos dizendo é que na banda número 3 (The Beatles) o artista número 
 Dado isto, vamos pedir para você inserir na tabela **band_artist** as seguintes entradas (na seguinte ordem):
 
 > ```
-> Na banda Iron Maiden (número 1), peça Caetano Veloso (artista número 1)
+> Na banda Iron Maiden (número 1), com o artista Caetano Veloso (artista número 1)
 > ```
 
 > ```
-> Na banda Iron Maiden (número 1), peça Carlos Gonzaga (artista número 2)
+> Na banda Iron Maiden (número 1), com o artista Carlos Gonzaga (artista número 2)
 > ```
 
 > ```
-> Na banda Iron Maiden (número 1), peça Felipe Araújo (artista número 3)
+> Na banda Iron Maiden (número 1), com o artista Felipe Araújo (artista número 3)
 > ```
 
 > ```
-> Na banda The Strokes (número 2), peça Carlos Gonzaga (artista número 1)
+> Na banda The Strokes (número 2), com o artista Carlos Gonzaga (artista número 1)
 > ```
 
 > ```
-> Na banda The Beatles (número 2), peça Jair Rodrigues (artista número 4)
+> Na banda The Beatles (número 2), com o artista Jair Rodrigues (artista número 4)
 > ```
