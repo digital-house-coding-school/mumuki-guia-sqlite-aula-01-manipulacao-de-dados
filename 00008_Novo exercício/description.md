@@ -65,7 +65,7 @@ Dado isto, se tivéssemos na tabela **banda_artista** o seguinte conteúdo:
   ]'>
 </div>
 
-O que estamos dizendo é que na banda número 3 (Seru Giran) o artista número 4 (David Lebon) participa
+O que estamos dizendo é que na banda número 3 (The Beatles) o artista número 4 (David Lebon) participa
 
 Dado isto, vamos pedir para você inserir na tabela **band_artist** as seguintes entradas (na seguinte ordem):
 
