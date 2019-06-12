@@ -1,0 +1,8 @@
+type: final_dataset
+final: SELECT * FROM bandas;
+expected: |
+  id|nombre|premios
+  2|Pescado Rabioso|
+  3|Sui Generis|42
+  4|Seru Giran|58
+  6|Divididos|36
