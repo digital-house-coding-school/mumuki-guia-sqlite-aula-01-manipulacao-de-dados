@@ -12,3 +12,5 @@ A coluna "apelido" foi adicionada à nossa tabela de artistas. Dado isso, a tabe
     [5,"Rodolfo", "Paez", "1963-03-13", null]
   ]'>
 </div>
+
+Seu trabalho é atualizar a linha de "Spinetta" para que seu apelido seja "El Flaco" e a linha de "Rodolfo Paez" para que seu apelido seja "Fito"
