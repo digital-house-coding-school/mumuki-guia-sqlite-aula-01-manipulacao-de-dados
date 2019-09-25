@@ -2,7 +2,8 @@ CREATE TABLE artistas(
   id INTEGER PRIMARY KEY,
   nome TEXT NOT NULL,
   sobrenome TEXT NOT NULL,
-  data_de_nascimento TEXT
+  data_de_nascimento TEXT,
+  apodo TEXT
 );
 
 INSERT into artistas values(null, "Carlos", "Gonzaga", "1950-01-23", null);
