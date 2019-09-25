@@ -1,8 +1,8 @@
 CREATE TABLE artistas(
   id INTEGER PRIMARY KEY,
-  nombre TEXT NOT NULL,
-  apellido TEXT NOT NULL,
-  fecha_de_nacimiento TEXT,
+  nome TEXT NOT NULL,
+  apelido TEXT NOT NULL,
+  data_de_nascimento TEXT,
   apodo TEXT
 );
 
