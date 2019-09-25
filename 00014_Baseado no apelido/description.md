@@ -5,7 +5,7 @@ Uma nova linha foi inserida na tabela de artistas, mas foi um pouco incompleta..
   data-name='artistas'
   data-columns='[{"name": "id", "pk": true}, "nome", "sobrenome", "data_de_nascimento", "apelido"]'
   data-rows='[
-    [6,"", "", "", "Luizinho"]
+    [5,"", "", "", "Luizinho"]
   ]'>
 </div>
 
