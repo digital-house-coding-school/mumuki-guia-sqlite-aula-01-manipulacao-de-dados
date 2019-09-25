@@ -2,7 +2,7 @@ type: final_dataset
 final: SELECT * FROM artistas;
 expected: |
   id|nome|sobrenome|data_de_nascimento|apelido
-  1|Carlos|Gonzaga|1951-10-23|Gonzaguinha
-  2|Caetano|Veloso|1950-01-23|Sem apelido
+  1|Carlos|Gonzaga|1950-01-23|Gonzaguinha
+  2|Caetano|Veloso|1951-10-23|Sem apelido
   3|Felipe|Araújo|1959-07-23|Sem apelido
   4|Jair|Rodrigues|1963-03-13|Jairzinho
