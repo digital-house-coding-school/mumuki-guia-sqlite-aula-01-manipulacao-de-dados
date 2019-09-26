@@ -82,5 +82,5 @@ Dado isto, vamos pedir para você inserir na tabela **band_artist** as seguintes
 > ```
 
 > ```
-> Na banda The Beatles (número 2), com o artista Jair Rodrigues (artista número 4)
+> Na banda The Strokes (número 2), com o artista Jair Rodrigues (artista número 4)
 > ```
