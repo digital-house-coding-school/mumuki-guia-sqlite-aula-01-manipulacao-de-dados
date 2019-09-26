@@ -15,6 +15,10 @@ CREATE TABLE artistas(
   data_de_nascimento TEXT
 );
 
+insert into artistas (nome, sobrenome, data_de_nascimento) values ('Caetano', 'Veloso', '1950-01-23');
+insert into artistas (nome, sobrenome, data_de_nascimento) values ('Carlos', 'Gonzaga', '1951-10-23');
+insert into artistas (nome, sobrenome, data_de_nascimento) values ('Felipe', 'Araújo', '1959-07-23');
+insert into artistas (nome, sobrenome, data_de_nascimento) values ('Jair', 'Rodrigues', '1952-10-05');
 
 CREATE TABLE banda_artista(
   id INTEGER PRIMARY KEY,
