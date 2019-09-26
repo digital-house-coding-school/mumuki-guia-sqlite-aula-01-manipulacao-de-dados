@@ -82,9 +82,5 @@ Dado isto, vamos pedir para você inserir na tabela **band_artist** as seguintes
 > ```
 
 > ```
-> Na banda The Strokes (número 2), com o artista Carlos Gonzaga (artista número 1)
-> ```
-
-> ```
 > Na banda The Beatles (número 2), com o artista Jair Rodrigues (artista número 4)
 > ```
