@@ -1,7 +1,7 @@
 type: final_dataset
-final: SELECT bandas.nome as banda, artistas.nome as nome, artistas.nome as nome FROM bandas INNER JOIN banda_artista ON (banda_artista.id_banda = bandas.id) INNER JOIN artistas ON (artistas.id = banda_artista.id_artista);
+final: SELECT bandas.nome as banda, artistas.nome as nome, artistas.sobrenome as sobrenome FROM bandas INNER JOIN banda_artista ON (banda_artista.id_banda = bandas.id) INNER JOIN artistas ON (artistas.id = banda_artista.id_artista);
 expected: |
-  banda|nome|apelido
+  banda|nome|sobrenome
   |Caetano|Veloso
   Iron Maiden|Carlos|Gonzaga
   Iron Maiden|Felipe|Araújo
